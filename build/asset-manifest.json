@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/employeeDirectory/static/css/main.021cc842.chunk.css",
-    "main.js": "/employeeDirectory/static/js/main.c5734a37.chunk.js",
-    "main.js.map": "/employeeDirectory/static/js/main.c5734a37.chunk.js.map",
-    "runtime-main.js": "/employeeDirectory/static/js/runtime-main.1f2bb03c.js",
-    "runtime-main.js.map": "/employeeDirectory/static/js/runtime-main.1f2bb03c.js.map",
-    "static/css/2.150d169a.chunk.css": "/employeeDirectory/static/css/2.150d169a.chunk.css",
-    "static/js/2.4017b274.chunk.js": "/employeeDirectory/static/js/2.4017b274.chunk.js",
-    "static/js/2.4017b274.chunk.js.map": "/employeeDirectory/static/js/2.4017b274.chunk.js.map",
-    "index.html": "/employeeDirectory/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/employeeDirectory/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.021cc842.chunk.css.map": "/employeeDirectory/static/css/main.021cc842.chunk.css.map",
-    "static/js/2.4017b274.chunk.js.LICENSE.txt": "/employeeDirectory/static/js/2.4017b274.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/employeeDirectory/static/media/gradient.2101da63.jpg"
+    "main.css": "/ReactEmployeeDirectory/static/css/main.b73be318.chunk.css",
+    "main.js": "/ReactEmployeeDirectory/static/js/main.c5734a37.chunk.js",
+    "main.js.map": "/ReactEmployeeDirectory/static/js/main.c5734a37.chunk.js.map",
+    "runtime-main.js": "/ReactEmployeeDirectory/static/js/runtime-main.3e7441f9.js",
+    "runtime-main.js.map": "/ReactEmployeeDirectory/static/js/runtime-main.3e7441f9.js.map",
+    "static/css/2.150d169a.chunk.css": "/ReactEmployeeDirectory/static/css/2.150d169a.chunk.css",
+    "static/js/2.4017b274.chunk.js": "/ReactEmployeeDirectory/static/js/2.4017b274.chunk.js",
+    "static/js/2.4017b274.chunk.js.map": "/ReactEmployeeDirectory/static/js/2.4017b274.chunk.js.map",
+    "index.html": "/ReactEmployeeDirectory/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ReactEmployeeDirectory/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b73be318.chunk.css.map": "/ReactEmployeeDirectory/static/css/main.b73be318.chunk.css.map",
+    "static/js/2.4017b274.chunk.js.LICENSE.txt": "/ReactEmployeeDirectory/static/js/2.4017b274.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ReactEmployeeDirectory/static/media/gradient.2101da63.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f2bb03c.js",
+    "static/js/runtime-main.3e7441f9.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.4017b274.chunk.js",
-    "static/css/main.021cc842.chunk.css",
+    "static/css/main.b73be318.chunk.css",
     "static/js/main.c5734a37.chunk.js"
   ]
 }
