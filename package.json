@@ -1,8 +1,8 @@
 {
-  "name": "employee",
+  "name": "ReactEmployeeDirectory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://caseyoverton.github.io/employeeDirectory/",
+  "homepage": "https://caseyoverton.github.io/EmployeeDirectory/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
